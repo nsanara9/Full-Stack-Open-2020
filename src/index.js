@@ -17,7 +17,7 @@ const Hello = (props) => {
 const Footer = () => {
   return (
     <div>
-      greeting app created by 
+      greeting app created by SANARA 
       <a href="https://github.com/mluukkai">mluukkai</a>
     </div>
   )
